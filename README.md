@@ -3,7 +3,6 @@ Entrence task #1 for VK mobile dev bootcamp.
 The data is retrived from trending section of Play Market via 42matters api, so basicly the task to find trending apps is deligated to Google itself.
 
 Below you can see a sample program output
------------------------------------------
 
 ## Trending Google Play Market apps
 Created with 42matters API
