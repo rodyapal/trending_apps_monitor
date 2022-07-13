@@ -1,7 +1,7 @@
 package model
 
 const val API_URL = "https://data.42matters.com/api/v3.0/android/apps/"
-const val API_KEY = "cd9e654f2a4ea3351955ab8e3afb4755b431191a"
+const val API_KEY = "cd9e654f2a4ea3351955ab8e3afb4755b431191a" //is already obsolete
 
 const val REQUEST_TOP_CHARTS = "top_google_charts.json"
 
